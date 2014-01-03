@@ -1,0 +1,7 @@
+public Class Personne3{
+
+Personne3(){
+System.out.println("bonjour");
+}
+
+}
